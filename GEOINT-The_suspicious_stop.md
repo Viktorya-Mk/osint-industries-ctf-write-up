@@ -11,6 +11,12 @@ A small boat leaving Marseille follows the same route to the same destination ev
 The detour is suspected to be linked to black-market activity. Intelligence indicates that the boat's owner met someone who arrived on a bike, and that the two then went into a nearby restaurant together.
 
 I was given a file of NMEA 0183 data containing the boat's coordinates.
+## Challenge objective
+ 
+Identify:
+ 
+- The name of the restaurant where they met
+- Its full address
 
 ## Step 1: Plotting the trajectory
 
